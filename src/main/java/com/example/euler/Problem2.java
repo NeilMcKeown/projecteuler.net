@@ -23,7 +23,6 @@ public class Problem2 {
       }
 
       int termSum = term1 + term2;
-      System.out.print(termSum + ", ");
 
       term1 = term2;
       term2 = termSum;
